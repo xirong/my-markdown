@@ -47,6 +47,7 @@
 - [MarkdownPad](http://www.markdownpad.com/) Windows上的全功能Markdown编辑器，推荐win上使用，基本全部功能。
 - [Marked2](http://marked2app.com/) 多种 md 显示方案，不能够编辑文件，只用来展示文件，配合 [subline text markdown edit](https://packagecontrol.io/packages/MarkdownEditing) 插件，完美使用； 
 - [MWeb](http://zh.mweb.im/) 专业的 Markdown 写作、记笔记、静态博客生成软件，由国内独立开发者[@oulvhai](http://weibo.com/oulvhai?from=usercardnew)开发，支持Toc、Table、代码高亮、支持发布到 Wordrpess 博客、支持 Metaweblog API 的博客服务、Wordpress.com、Evernote 和印象笔记、Blogger、Scriptogr.am、Tumblr等服务。
+- [Haroopad](http://pad.haroopress.com/user.html) 又一款简洁多功能的跨平台编辑器，全功能支持，再加上对社交网络友好的连接，多种主题等，感兴趣的可以看看。详情参考[issue#1](https://github.com/xirong/my-markdown/issues/1)
 -  这几款就够了，多了就有选择症 ……
 
 
