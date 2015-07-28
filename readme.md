@@ -38,6 +38,7 @@
 - [Markdown 完整语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [Github: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [MarkDown 语法团队规范](https://github.com/hzlzh/1MarkDown)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [MultiMarkdown 介绍](http://fletcherpenney.net/multimarkdown/) 对 markdown 进行的扩展功能
 
 # markdown 工具
