@@ -39,6 +39,7 @@
 - [Github: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [MarkDown 语法团队规范](https://github.com/hzlzh/1MarkDown)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 - [MultiMarkdown 介绍](http://fletcherpenney.net/multimarkdown/) 对 markdown 进行的扩展功能
 
 # markdown 工具
