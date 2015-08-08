@@ -44,12 +44,12 @@
 
 # markdown 工具
 
-- [马克飞象](https://maxiang.info/) web/chrome 离线客户端，markdown 全功能支持，最大特点内容能够同步到印象笔记（evernote）中，笔记的用户重度推荐，按年收费，目前作者 [@weibo]() 正在开发跨平台的客户端。
+- [马克飞象](https://maxiang.info/) web/chrome 离线客户端，markdown 全功能支持，最大特点内容能够同步到印象笔记（evernote）中，笔记的用户重度推荐，按年收费，目前作者 [@weibo](http://weibo.com/u/2788354117) 正在开发跨平台的客户端。
 - [cmd 作业部落](https://www.zybuluo.com/mdeditor) 支持 win/mac/linux/web/chrome 全平台，支持实时同步预览，支持代码高亮、数学公式，区分写作和阅读模式，支持在线存储，分享文稿网址。
 - [MacDown](http://macdown.uranusjr.com/) OSX 上的 Markdown 开源编辑器，支持代码高亮，实时预览等。
 - [MarkdownPad](http://www.markdownpad.com/) Windows上的全功能Markdown编辑器，推荐win上使用，基本全部功能。
 - [Marked2](http://marked2app.com/) 多种 md 显示方案，不能够编辑文件，只用来展示文件，配合 [subline text markdown edit](https://packagecontrol.io/packages/MarkdownEditing) 插件，完美使用； 
-- [MWeb](http://zh.mweb.im/) 专业的 Markdown 写作、记笔记、静态博客生成软件，由国内独立开发者[@oulvhai](http://weibo.com/oulvhai?from=usercardnew)开发，支持Toc、Table、代码高亮、支持发布到 Wordrpess 博客、支持 Metaweblog API 的博客服务、Wordpress.com、Evernote 和印象笔记、Blogger、Scriptogr.am、Tumblr等服务。
+- [MWeb](http://zh.mweb.im/) 专业的 Markdown 写作、记笔记、静态博客生成软件，由国内独立开发者[@oulvhai](http://weibo.com/oulvhai)开发，支持Toc、Table、代码高亮、支持发布到 Wordrpess 博客、支持 Metaweblog API 的博客服务、Wordpress.com、Evernote 和印象笔记、Blogger、Scriptogr.am、Tumblr等服务。
 - [Haroopad](http://pad.haroopress.com/user.html) 又一款简洁多功能的跨平台编辑器，全功能支持，再加上对社交网络友好的连接，多种主题等，感兴趣的可以看看。详情参考[issue#1](https://github.com/xirong/my-markdown/issues/1)
 -  这几款就够了，多了就有选择症 ……
 
