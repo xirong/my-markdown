@@ -1,6 +1,7 @@
-说明
-===========
+# 说明
+
 自从学习使用 `markdown` 以来，收集的学习资料、软件工具、使用指南等，如果你没有听说过或者还没有体验过`markdown` 进行写作文章，强烈建议 have a try !
+
 
 
 # markdown 介绍
@@ -10,7 +11,7 @@
 - [Markdown wikipedia 介绍](https://zh.wikipedia.org/wiki/Markdown)
 - [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) 引入更多标记特性和输出选项的改进版Markdown
 
-# why markdown 
+# why markdown
 
 - 纯文本，兼容性极强，可以用任意文本编辑器打开.
 - 语法简单（the syntax is so simple you can barely call it “syntax.”），零学习成本，极好的可读性，让你专注于文字写作而不是页面排版，并且兼容 HTML，simple but powerful .
@@ -18,7 +19,6 @@
 - 适合团队协作，可以使用 git/svn 等进行版本控制管理。
 - [阳志平：为什么 Markdown 成为科技界写作主流？](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
 - [图灵社区：用Markdown来写自由书籍-开源技术的方案](http://www.ituring.com.cn/article/828?q=markdown)
-
 
 目前很多在线服务商均支持使用markdown编写：
 
@@ -30,7 +30,6 @@
 - [简书](http://www.jianshu.com/) 重拾文字的力量，交流故事，沟通想法，一个基于内容分享的社区。
 - [为知笔记](http://www.wiz.cn/) 国内顶尖笔记软件，支持使用Markdown语法编辑笔记。
 - ……
-
 
 # markdown 使用
 
@@ -51,8 +50,8 @@
 - [Marked2](http://marked2app.com/) 多种 md 显示方案，不能够编辑文件，只用来展示文件，配合 [subline text markdown edit](https://packagecontrol.io/packages/MarkdownEditing) 插件，完美使用； 
 - [MWeb](http://zh.mweb.im/) 专业的 Markdown 写作、记笔记、静态博客生成软件，由国内独立开发者[@oulvhai](http://weibo.com/oulvhai)开发，支持Toc、Table、代码高亮、支持发布到 Wordrpess 博客、支持 Metaweblog API 的博客服务、Wordpress.com、Evernote 和印象笔记、Blogger、Scriptogr.am、Tumblr等服务。
 - [Haroopad](http://pad.haroopress.com/user.html) 又一款简洁多功能的跨平台编辑器，全功能支持，再加上对社交网络友好的连接，多种主题等，感兴趣的可以看看。详情参考[issue#1](https://github.com/xirong/my-markdown/issues/1)
--  这几款就够了，多了就有选择症 ……
-
+- [码字必备：18 款优秀的 Markdown 写作工具 | 2015 年度盘点](http://sspai.com/32483) 喜欢哪一款，就看你的了。
+- 这几款就够了，多了就有选择症 ……
 
 ### reference 参考
 
