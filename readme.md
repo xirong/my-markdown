@@ -2,16 +2,14 @@
 
 自从学习使用 `markdown` 以来，收集的学习资料、软件工具、使用指南等，如果你没有听说过或者还没有体验过`markdown` 进行写作文章，强烈建议 have a try !
 
-
-
-# markdown 介绍
-
+## markdown 介绍
 > Markdown 是一种轻量级标记语言，它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。 - **wikipedia**
 
+- [Daring Fireball: Markdown](http://daringfireball.net/projects/markdown/) Project markdown
 - [Markdown wikipedia 介绍](https://zh.wikipedia.org/wiki/Markdown)
 - [MultiMarkdown](http://fletcherpenney.net/multimarkdown/) 引入更多标记特性和输出选项的改进版Markdown
 
-# why markdown
+## why markdown
 
 - 纯文本，兼容性极强，可以用任意文本编辑器打开.
 - 语法简单（the syntax is so simple you can barely call it “syntax.”），零学习成本，极好的可读性，让你专注于文字写作而不是页面排版，并且兼容 HTML，simple but powerful .
@@ -31,29 +29,31 @@
 - [为知笔记](http://www.wiz.cn/) 国内顶尖笔记软件，支持使用Markdown语法编辑笔记。
 - ……
 
-# markdown 使用
+## markdown 使用
 
 - [Markdown: Basics （快速入门）](http://wowubuntu.com/markdown/basic.html)
 - [Markdown 完整语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
-- [Github: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [MarkDown 语法团队规范](https://github.com/hzlzh/1MarkDown)
+- [Github: Mastering Markdown](https://guides.github.com/features/mastering-markdown/) GitHub 帮助中关于 Markdown 的语法帮助
+- [MarkDown 语法团队规范](https://github.com/hzlzh/1MarkDown) 语法规范简洁版
+- [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/) 语法规范复杂版
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) GitHub 使用的 Markdown 语法，略微不同于标准 Markdown 语法。提供了一些更加简洁的语法，类似 URL autolinking, Strikethrough, Fenced code blocks, Syntax highlighting 等等
 - [MultiMarkdown 介绍](http://fletcherpenney.net/multimarkdown/) 对 markdown 进行的扩展功能
 
-# markdown 工具
+## markdown 工具
 
 - [马克飞象](https://maxiang.info/) web/chrome 离线客户端，markdown 全功能支持，最大特点内容能够同步到印象笔记（evernote）中，笔记的用户重度推荐，按年收费，目前作者 [@weibo](http://weibo.com/u/2788354117) 正在开发跨平台的客户端。
+- [StackEdit](https://stackedit.io/) 在线 markdown 编辑器，可同步文档到Google Drive和 Dropbox，可发布文章到 Blogger，GitHub，Google Drive，Dropbox，Tumblr和WordPress。
 - [cmd 作业部落](https://www.zybuluo.com/mdeditor) 支持 win/mac/linux/web/chrome 全平台，支持实时同步预览，支持代码高亮、数学公式，区分写作和阅读模式，支持在线存储，分享文稿网址。
 - [MacDown](http://macdown.uranusjr.com/) OSX 上的 Markdown 开源编辑器，支持代码高亮，实时预览等。
 - [MarkdownPad](http://www.markdownpad.com/) Windows上的全功能Markdown编辑器，推荐win上使用，基本全部功能。
-- [Marked2](http://marked2app.com/) 多种 md 显示方案，不能够编辑文件，只用来展示文件，配合 [subline text markdown edit](https://packagecontrol.io/packages/MarkdownEditing) 插件，完美使用； 
+- [Marked2](http://marked2app.com/) 多种 md 显示方案，不能够编辑文件，只用来展示文件，配合 [subline text markdown edit](https://packagecontrol.io/packages/MarkdownEditing) 插件，完美使用；
 - [MWeb](http://zh.mweb.im/) 专业的 Markdown 写作、记笔记、静态博客生成软件，由国内独立开发者[@oulvhai](http://weibo.com/oulvhai)开发，支持Toc、Table、代码高亮、支持发布到 Wordrpess 博客、支持 Metaweblog API 的博客服务、Wordpress.com、Evernote 和印象笔记、Blogger、Scriptogr.am、Tumblr等服务。
 - [Haroopad](http://pad.haroopress.com/user.html) 又一款简洁多功能的跨平台编辑器，全功能支持，再加上对社交网络友好的连接，多种主题等，感兴趣的可以看看。详情参考[issue#1](https://github.com/xirong/my-markdown/issues/1)
 - [码字必备：18 款优秀的 Markdown 写作工具 | 2015 年度盘点](http://sspai.com/32483) 喜欢哪一款，就看你的了。
 - 这几款就够了，多了就有选择症 ……
 
-### reference 参考
+## reference 参考
 
 - [Why Markdown? A two-minute explanation](http://brettterpstra.com/2011/08/31/why-markdown-a-two-minute-explanation/)
 - [简书：献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
