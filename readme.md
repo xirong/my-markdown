@@ -27,6 +27,7 @@
 - [图灵社区](http://www.ituring.com.cn/) 使用markdown语法供用户写作电子书.
 - [简书](http://www.jianshu.com/) 重拾文字的力量，交流故事，沟通想法，一个基于内容分享的社区。
 - [为知笔记](http://www.wiz.cn/) 国内顶尖笔记软件，支持使用Markdown语法编辑笔记。
+- [有道云笔记](http://note.youdao.com/noteintro.html) 最新版本开始支持，并且支持一些扩展语法。
 - ……
 
 ## markdown 使用
@@ -43,17 +44,29 @@
 ## markdown 工具
 
 - [马克飞象](https://maxiang.info/) web/chrome 离线客户端，markdown 全功能支持，最大特点内容能够同步到印象笔记（evernote）中，笔记的用户重度推荐，按年收费，目前作者 [@weibo](http://weibo.com/u/2788354117) 正在开发跨平台的客户端。
+
 - [StackEdit](https://stackedit.io/) 在线 markdown 编辑器，可同步文档到Google Drive和 Dropbox，可发布文章到 Blogger，GitHub，Google Drive，Dropbox，Tumblr和WordPress。
+
 - [cmd 作业部落](https://www.zybuluo.com/mdeditor) 支持 win/mac/linux/web/chrome 全平台，支持实时同步预览，支持代码高亮、数学公式，区分写作和阅读模式，支持在线存储，分享文稿网址。
+
 - [MacDown](http://macdown.uranusjr.com/) OSX 上的 Markdown 开源编辑器，支持代码高亮，实时预览等。
+
 - [MarkdownPad](http://www.markdownpad.com/) Windows上的全功能Markdown编辑器，推荐win上使用，基本全部功能。
+
 - [Marked2](http://marked2app.com/) 多种 md 显示方案，不能够编辑文件，只用来展示文件，配合 [subline text markdown edit](https://packagecontrol.io/packages/MarkdownEditing) 插件，完美使用；
+
 - [MWeb](http://zh.mweb.im/) 专业的 Markdown 写作、记笔记、静态博客生成软件，由国内独立开发者[@oulvhai](http://weibo.com/oulvhai)开发，支持Toc、Table、代码高亮、支持发布到 Wordrpess 博客、支持 Metaweblog API 的博客服务、Wordpress.com、Evernote 和印象笔记、Blogger、Scriptogr.am、Tumblr等服务。
+
 - [Haroopad](http://pad.haroopress.com/user.html) 又一款简洁多功能的跨平台编辑器，全功能支持，再加上对社交网络友好的连接，多种主题等，感兴趣的可以看看。详情参考[issue#1](https://github.com/xirong/my-markdown/issues/1)
+
+- [Typora](http://www.typora.io/) 不分栏，实时展示看到写出的内容，对于不喜欢「两栏」设计的人来说是一个选择
+
 - [码字必备：18 款优秀的 Markdown 写作工具 | 2015 年度盘点](http://sspai.com/32483) 喜欢哪一款，就看你的了。
+
 - 这几款就够了，多了就有选择症 ……
 
 ## reference 参考
 
 - [Why Markdown? A two-minute explanation](http://brettterpstra.com/2011/08/31/why-markdown-a-two-minute-explanation/)
 - [简书：献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
+
